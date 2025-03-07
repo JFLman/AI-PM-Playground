@@ -27,9 +27,13 @@ An AI tool that:
 - Time saved per user (>30 minutes/week).
 - Summary accuracy (>90% key point capture).
 
-### Next Steps
-- Prototype with sample meeting notes.
-- Test with a small user group.
+### Explore More
+- [Roadmap](roadmap.md): Development timeline.
+- [Tech Requirements](tech-requirements.md): Engineering specs.
+- [Metrics Dashboard](metrics-dashboard.md): Success tracking.
+- [User Story](user-story.md): User perspective.
+- [Sample Notes](sample-meeting-notes.txt): Input example.
+- [Sample Summary](sample-summary.md): Output example.
 
 ### Status
 Initial concept drafted—seeking feedback!
