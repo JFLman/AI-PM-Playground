@@ -30,3 +30,6 @@ An AI tool that:
 ### Next Steps
 - Prototype with sample meeting notes.
 - Test with a small user group.
+
+### Status
+Initial concept drafted—seeking feedback!
