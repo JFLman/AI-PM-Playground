@@ -1,0 +1,5 @@
+Meeting: Team Sync, March 6, 2025
+Attendees: John, Sarah, Mike
+Duration: 45 mins
+
+Discussion: Project X is behind schedule. Sarah suggested using AI tools to speed up testing. Mike will research options by Friday. John noted budget constraints—need approval for new tools. Team agreed to prioritize bug fixes next sprint.
