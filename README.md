@@ -23,10 +23,7 @@ Here’s how the AI Meeting Notes Summarizer processes inputs into summaries:
 
 ```mermaid
 graph TD
-    A[Meeting Notes (Text or Audio)] --> B[Speech-to-Text (if Audio)]
-    B --> C[NLP Model (e.g., BERT, GPT)]
-    A --> C
-    C --> D[Summary (3-5 Bullet Points)]
+    A[Notes] --> B[Speech]
 ```
 
 ### Tech Stack (Hypothetical)
