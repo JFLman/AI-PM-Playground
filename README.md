@@ -45,6 +45,7 @@ graph TD
 - [User Story](user-story.md): User perspective.
 - [Sample Notes](sample-meeting-notes.txt): Input example.
 - [Sample Summary](sample-summary.md): Output example.
+- [Competitor Analysis](competitor-analysis.md): Market context.
 
 ### Status
 Initial concept drafted—seeking feedback!
