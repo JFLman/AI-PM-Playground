@@ -18,6 +18,16 @@ An AI tool that:
 - Uses NLP to extract key points, decisions, and action items.
 - Outputs a concise summary (e.g., 3-5 bullet points).
 
+### Workflow
+Here’s how the AI Meeting Notes Summarizer processes inputs into summaries:
+
+```mermaid
+graph TD
+    A[Meeting Notes<br/>(Text or Audio)] --> B[Speech-to-Text<br/>(if Audio)]
+    B --> C[NLP Model<br/>(e.g., BERT, GPT)]
+    A --> C
+    C --> D[Summary<br/>(3-5 Bullet Points)]
+
 ### Tech Stack (Hypothetical)
 - **Input**: Text files or speech-to-text API (e.g., Google Speech-to-Text).
 - **AI**: NLP model like BERT or GPT via Hugging Face or OpenAI API.
