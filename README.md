@@ -7,7 +7,7 @@ A concept for an AI-driven tool that automatically summarizes meeting notes to s
 ## Project: [Email Prioritizer](products/AI-Email-Prioritizer)
 An AI tool to prioritize emails, suggest actions, and streamline inbox management for busy professionals.
 
-## Project: [Task Dependancy Mapper](products/AI Task Dependency Mapper)
+## Project: [Task Dependancy Mapper](products/AI-Task-Dependency-Mapper)
 A tool that maps task dependencies in projects, predicts bottlenecks, and optimizes workflows.
 
 ### Status
