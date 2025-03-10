@@ -1,3 +1,3 @@
-As a busy executive, I want emails ranked by urgency, so I can focus on critical messages first.
-As a remote worker, I want calendar scheduling suggestions, so I can manage meetings efficiently.
-As a user, I want to provide feedback on prioritization, so the tool improves over time.
+- As a busy executive, I want emails ranked by urgency, so I can focus on critical messages first.
+- As a remote worker, I want calendar scheduling suggestions, so I can manage meetings efficiently.
+- As a user, I want to provide feedback on prioritization, so the tool improves over time.
