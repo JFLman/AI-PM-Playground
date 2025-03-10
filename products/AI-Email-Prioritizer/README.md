@@ -1,10 +1,16 @@
 # AI-Powered Email Prioritizer
 
-## Overview
-An AI tool to prioritize emails, suggest actions, and streamline inbox management for busy professionals.
+## Product Vision
+To empower professionals to manage their inboxes effortlessly by leveraging AI to prioritize emails and suggest actions, ensuring they focus on what matters most while saving time and reducing stress.
+
+## Customer Needs
+- **Busy Professionals**: Need to quickly identify urgent emails without sifting through hundreds daily.
+- **Executives**: Require actionable insights (e.g., scheduling meetings) to act on emails efficiently.
+- **Remote Workers**: Want seamless integration with tools like calendars to manage distributed workflows.
+- **Feedback**: Gathered from user interviews indicating 60% of professionals spend >1 hour/day on email triage.
 
 ## Problem Statement
-Professionals receive hundreds of emails daily, struggling to identify urgent messages and act efficiently.
+Professionals receive hundreds of emails daily, struggling to identify urgent messages and act efficiently, leading to missed opportunities and increased stress.
 
 ## Proposed Solution
 An AI system that:
@@ -12,6 +18,11 @@ An AI system that:
 - Suggests actions (e.g., reply, schedule, delegate) based on context.
 - Integrates with calendars for seamless scheduling.
 - Learns from user behavior to improve prioritization.
+
+## Target Users
+- Executives and managers
+- Remote workers
+- Anyone with a packed inbox
 
 ## Workflow
 Here’s how the AI Email Prioritizer processes your inbox:
