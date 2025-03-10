@@ -13,12 +13,13 @@ An AI system that:
 - Integrates with calendars for seamless scheduling.
 - Learns from user behavior to improve prioritization.
 
-## Target Users
-- Executives and managers
-- Remote workers
-- Anyone with a packed inbox
+## Workflow
+Here’s how the AI Email Prioritizer processes your inbox:
 
-## Tech Stack (Hypothetical)
-- **NLP**: Hugging Face Transformers for sentiment and intent analysis
-- **APIs**: Google Calendar, Microsoft Graph for integration
-- **Learning**: Reinforcement learning to adapt to user preferences
+```mermaid
+graph TD
+    A[Inbox Emails - New and Unread] --> B[NLP Analysis - Urgency and Relevance]
+    B --> C[Prioritization Engine - Rank Emails]
+    C --> D[Suggest Actions - Reply, Schedule, Delegate]
+    D --> E[User Feedback - Improve Model]
+    E --> B
