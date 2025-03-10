@@ -7,7 +7,7 @@ A concept for an AI-driven tool that automatically summarizes meeting notes to s
 ## Project: [Email Prioritizer](https://github.com/JFLman/AI-PM-Playground/blob/main/products/email-prioritizer.md)
 An AI tool to prioritize emails, suggest actions, and streamline inbox management for busy professionals.
 
-## Project: [Task Dependancy Mapper](https://github.com/JFLman/AI-PM-Playground/blob/main/products/task-dependency-mapper.md)
+## Project: [Task Dependancy Mapper](products/AI-Task-Dependency-Mapper)
 A tool that maps task dependencies in projects, predicts bottlenecks, and optimizes workflows.
 
 ### Status
