@@ -1,7 +1,7 @@
 # AI Space Safety Predictor MVP
 
 ## Overview
-This MVP demonstrates the core functionality of the AI Space Safety Predictor, designed to predict failures in reusable space vehicles using telemetry data and provide preventive recommendations. It supports Blue Origin’s mission of safe, low-cost spaceflight.
+This MVP demonstrates the core functionality of the AI Space Safety Predictor, designed to predict failures in reusable space vehicles using telemetry data and provide preventive recommendations. It supports XYZ Space Technology mission of safe, low-cost spaceflight.
 
 ## How to Run
 1. Clone this repo: `git clone <your-repo-url>`
@@ -20,6 +20,6 @@ This MVP demonstrates the core functionality of the AI Space Safety Predictor, d
 - CLI interface; future versions will include a dashboard.
 
 ## Next Steps
-- Integrate real telemetry data from Blue Origin systems.
+- Integrate real telemetry data from XYZ Space Technology systems.
 - Deploy a React-based dashboard for cross-functional teams.
 - Enhance model with deep learning (e.g., LSTM for time-series data).
