@@ -1,0 +1,3 @@
+- As a mission control operator, I want real-time failure predictions, so I can make safe launch decisions.
+- As an engineer, I want preventive maintenance alerts, so I can fix issues before they escalate.
+- As a safety officer, I want environmental risk assessments, so I can ensure compliance with standards.

@@ -1,0 +1,5 @@
+- Time Saved: Avg. minutes saved per user/day (Target: >30 mins).
+- Accuracy: % of correctly prioritized emails (Target: >90%).
+- Adoption: # of active users (Target: 200 in first month).
+- Action Rate: % of suggested actions taken (Target: >50%).
+- Satisfaction: User rating out of 5 (Target: >4.5).
